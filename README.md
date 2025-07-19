@@ -3,11 +3,6 @@
 <img width="939" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/ac740d44-4121-46df-81eb-f4826b55077f" />
 
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMP8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
 <p align="left">
 </p>
 
@@ -32,4 +27,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMP8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
